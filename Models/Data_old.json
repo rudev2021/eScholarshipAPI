@@ -1,0 +1,3292 @@
+﻿{
+  "data": {
+    "items": {
+      "nodes": [
+        {
+          "title": "Quantifying Changes to the 3D Structure of Microglia in Response to an Insult from Inhalation of Alternaria Alternata Particulate Matter",
+          "id": "ark:/13030/qt9z85j82w",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Okeke, Chigozie C"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Correspondence Between the Spectrum of Jacobi Operator and Dominated Splitting of its Cocycle Map",
+          "id": "ark:/13030/qt9vj4d5m9",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Alkorn, Kateryna"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Improving metabarcoding taxonomic assignment: A case study of fishes in a large marine ecosystem.",
+          "id": "ark:/13030/qt9v70419c",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 11,
+            "nodes": [
+              {
+                "name": "Gold, Zachary"
+              },
+              {
+                "name": "Curd, Emily E"
+              },
+              {
+                "name": "Goodwin, Kelly D"
+              },
+              {
+                "name": "Choi, Emma S"
+              },
+              {
+                "name": "Frable, Benjamin W"
+              },
+              {
+                "name": "Thompson, Andrew R"
+              },
+              {
+                "name": "Walker, Harold J"
+              },
+              {
+                "name": "Burton, Ronald S"
+              },
+              {
+                "name": "Kacev, Dovi"
+              },
+              {
+                "name": "Martz, Lucas D"
+              },
+              {
+                "name": "Barber, Paul H"
+              }
+            ]
+          },
+          "published": "2021-07-08",
+          "units": [
+            {
+              "id": "ucsd_postprints"
+            },
+            {
+              "id": "sio_cmbc_rw"
+            }
+          ]
+        },
+        {
+          "title": "The mysterious grooves of Volcan Barcena: a review of the role of streamwise counter-rotating vortices during erosion by dilute pyroclastic density currents (vol 83, 26, 2021)",
+          "id": "ark:/13030/qt9v5388mk",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 4,
+            "nodes": [
+              {
+                "name": "Kieffer, Susan W"
+              },
+              {
+                "name": "Meiburg, Eckart"
+              },
+              {
+                "name": "Best, Jim"
+              },
+              {
+                "name": "Austin, Joanna"
+              }
+            ]
+          },
+          "published": "2021-05-01",
+          "units": [
+            {
+              "id": "ucsb_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Perspective taking reduces intergroup bias in visual representations of faces.",
+          "id": "ark:/13030/qt9rh9591b",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 4,
+            "nodes": [
+              {
+                "name": "Hutchings, Ryan J"
+              },
+              {
+                "name": "Simpson, Austin J"
+              },
+              {
+                "name": "Sherman, Jeffrey W"
+              },
+              {
+                "name": "Todd, Andrew R"
+              }
+            ]
+          },
+          "published": "2021-06-19",
+          "units": [
+            {
+              "id": "ucd_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Low-density lipoprotein receptor-related protein 1 (LRP1) is a novel receptor for apolipoprotein A4 (APOA4) in adipose tissue.",
+          "id": "ark:/13030/qt9qz2b8fw",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 11,
+            "nodes": [
+              {
+                "name": "Qu, Jie"
+              },
+              {
+                "name": "Fourman, Sarah"
+              },
+              {
+                "name": "Fitzgerald, Maureen"
+              },
+              {
+                "name": "Liu, Min"
+              },
+              {
+                "name": "Nair, Supna"
+              },
+              {
+                "name": "Oses-Prieto, Juan"
+              },
+              {
+                "name": "Burlingame, Alma"
+              },
+              {
+                "name": "Morris, John H"
+              },
+              {
+                "name": "Davidson, W Sean"
+              },
+              {
+                "name": "Tso, Patrick"
+              },
+              {
+                "name": "Bhargava, Aditi"
+              }
+            ]
+          },
+          "published": "2021-06-24",
+          "units": [
+            {
+              "id": "ucsf_postprints"
+            }
+          ]
+        },
+        {
+          "title": "The impact of Dual Eligible Special Need Plan regulations on healthcare utilization.",
+          "id": "ark:/13030/qt9pm4h1sg",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 5,
+            "nodes": [
+              {
+                "name": "Narain, Kimberly Danae Cauley"
+              },
+              {
+                "name": "Harwood, Jessica"
+              },
+              {
+                "name": "Mangione, Carol"
+              },
+              {
+                "name": "Duru, O Kenrik"
+              },
+              {
+                "name": "Ettner, Susan"
+              }
+            ]
+          },
+          "published": "2021-03-07",
+          "units": [
+            {
+              "id": "ucla_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Ecologies of Sound and Sea: An Auditory Journey through Acoustic Ecology",
+          "id": "ark:/13030/qt9pd4n7sf",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Amor, Michelle G."
+              }
+            ]
+          },
+          "published": "2021-06-01",
+          "units": [
+            {
+              "id": "sio_cmbc_capstone"
+            }
+          ]
+        },
+        {
+          "title": "The Ordinary Family?: Adaptation and Mimicry in Vietnamese Transnational Television",
+          "id": "ark:/13030/qt9p1321jx",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Westmor, Tara M"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "A Pilot Study Examining the Use of the Autism Diagnostic Observation Schedule in Community-Based Mental Health Clinics.",
+          "id": "ark:/13030/qt9m64j271",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 5,
+            "nodes": [
+              {
+                "name": "Stadnick, Nicole"
+              },
+              {
+                "name": "Brookman-Frazee, Lauren"
+              },
+              {
+                "name": "Williams, Katherine Nguyen"
+              },
+              {
+                "name": "Cerda, Gabrielle"
+              },
+              {
+                "name": "Akshoomoff, Natacha"
+              }
+            ]
+          },
+          "published": "2015-12-01",
+          "units": [
+            {
+              "id": "ucsd_postprints"
+            },
+            {
+              "id": "ucsdpsych_rw"
+            }
+          ]
+        },
+        {
+          "title": "Daily Motivational Text Messages to Promote Physical Activity in University Students: Results From a Microrandomized Trial.",
+          "id": "ark:/13030/qt9k84f2bs",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 9,
+            "nodes": [
+              {
+                "name": "Figueroa, Caroline A"
+              },
+              {
+                "name": "Deliu, Nina"
+              },
+              {
+                "name": "Chakraborty, Bibhas"
+              },
+              {
+                "name": "Modiri, Arghavan"
+              },
+              {
+                "name": "Xu, Jing"
+              },
+              {
+                "name": "Aggarwal, Jai"
+              },
+              {
+                "name": "Jay Williams, Joseph"
+              },
+              {
+                "name": "Lyles, Courtney"
+              },
+              {
+                "name": "Aguilera, Adrian"
+              }
+            ]
+          },
+          "published": "2021-04-19",
+          "units": [
+            {
+              "id": "ucb_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Strong selective effects of mitochondrial DNA on the nuclear genome.",
+          "id": "ark:/13030/qt9g20r9g8",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 2,
+            "nodes": [
+              {
+                "name": "Healy, Timothy M"
+              },
+              {
+                "name": "Burton, Ronald S"
+              }
+            ]
+          },
+          "published": "2020-03-10",
+          "units": [
+            {
+              "id": "ucsd_postprints"
+            },
+            {
+              "id": "sio_cmbc_rw"
+            }
+          ]
+        },
+        {
+          "title": "Category salience and racial bias in weapon identification: A diffusion modeling approach.",
+          "id": "ark:/13030/qt9d01862w",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 6,
+            "nodes": [
+              {
+                "name": "Todd, Andrew R"
+              },
+              {
+                "name": "Johnson, David J"
+              },
+              {
+                "name": "Lassetter, Bethany"
+              },
+              {
+                "name": "Neel, Rebecca"
+              },
+              {
+                "name": "Simpson, Austin J"
+              },
+              {
+                "name": "Cesario, Joseph"
+              }
+            ]
+          },
+          "published": "2021-03-01",
+          "units": [
+            {
+              "id": "ucd_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Screening for Hearing Loss in Older Adults: US Preventive Services Task Force Recommendation Statement.",
+          "id": "ark:/13030/qt9bc550w2",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 18,
+            "nodes": [
+              {
+                "name": "US Preventive Services Task Force"
+              },
+              {
+                "name": "Krist, Alex H"
+              },
+              {
+                "name": "Davidson, Karina W"
+              },
+              {
+                "name": "Mangione, Carol M"
+              },
+              {
+                "name": "Cabana, Michael"
+              },
+              {
+                "name": "Caughey, Aaron B"
+              },
+              {
+                "name": "Davis, Esa M"
+              },
+              {
+                "name": "Donahue, Katrina E"
+              },
+              {
+                "name": "Doubeni, Chyke A"
+              },
+              {
+                "name": "Epling, John W"
+              },
+              {
+                "name": "Kubik, Martha"
+              },
+              {
+                "name": "Li, Li"
+              },
+              {
+                "name": "Ogedegbe, Gbenga"
+              },
+              {
+                "name": "Pbert, Lori"
+              },
+              {
+                "name": "Silverstein, Michael"
+              },
+              {
+                "name": "Stevermer, James"
+              },
+              {
+                "name": "Tseng, Chien-Wen"
+              },
+              {
+                "name": "Wong, John B"
+              }
+            ]
+          },
+          "published": "2021-03-01",
+          "units": [
+            {
+              "id": "ucla_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Trieste ha sempre parlato diverse lingue: Intervista con Boris Pahor",
+          "id": "ark:/13030/qt9888b1pt",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 2,
+            "nodes": [
+              {
+                "name": "Bjekovic, Nina"
+              },
+              {
+                "name": "Pahor, Boris"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "italian_ucla_carteitaliane"
+            }
+          ]
+        },
+        {
+          "title": "Toxicogenomic Assessment of Particulate Matter (PM)-Induced Health Effects",
+          "id": "ark:/13030/qt9843c2c9",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Ahmed, C. M. Sabbir"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Association between industry payments and prescriptions of long-acting insulin: An observational study with propensity score matching.",
+          "id": "ark:/13030/qt97z5d3t2",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 4,
+            "nodes": [
+              {
+                "name": "Inoue, Kosuke"
+              },
+              {
+                "name": "Tsugawa, Yusuke"
+              },
+              {
+                "name": "Mangione, Carol M"
+              },
+              {
+                "name": "Duru, O Kenrik"
+              }
+            ]
+          },
+          "published": "2021-06-01",
+          "units": [
+            {
+              "id": "ucla_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Going Forward: Cooperative Research for Climate Resilience",
+          "id": "ark:/13030/qt96g8s9h8",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "DePuy, Gene"
+              }
+            ]
+          },
+          "published": "2021-06-01",
+          "units": [
+            {
+              "id": "sio_cmbc_capstone"
+            }
+          ]
+        },
+        {
+          "title": "Caregiver Attendance as a Quality Indicator in the Implementation of Multiple Evidence-Based Practices for Children.",
+          "id": "ark:/13030/qt94p6s914",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 8,
+            "nodes": [
+              {
+                "name": "Barnett, Miya L"
+              },
+              {
+                "name": "Lau, Anna S"
+              },
+              {
+                "name": "Lind, Teresa"
+              },
+              {
+                "name": "Wright, Blanche"
+              },
+              {
+                "name": "Stadnick, Nicole A"
+              },
+              {
+                "name": "Innes-Gomberg, Debbie"
+              },
+              {
+                "name": "Pesanti, Keri"
+              },
+              {
+                "name": "Brookman-Frazee, Lauren"
+              }
+            ]
+          },
+          "published": "2020-11-01",
+          "units": [
+            {
+              "id": "ucsd_postprints"
+            },
+            {
+              "id": "ucsdpsych_rw"
+            }
+          ]
+        },
+        {
+          "title": "Promoting Well-Being During Uncertain Waiting Periods: Comparing the Benefits of State Flow and Mindfulness",
+          "id": "ark:/13030/qt94n6c2t9",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Rankin, Kyla"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Financial Incentives to Promote Colorectal Cancer Screening: A Longitudinal Randomized Control Trial.",
+          "id": "ark:/13030/qt93w1z05z",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 9,
+            "nodes": [
+              {
+                "name": "Lieberman, Alicea"
+              },
+              {
+                "name": "Gneezy, Ayelet"
+              },
+              {
+                "name": "Berry, Emily"
+              },
+              {
+                "name": "Miller, Stacie"
+              },
+              {
+                "name": "Koch, Mark"
+              },
+              {
+                "name": "Ahn, Chul"
+              },
+              {
+                "name": "Balasubramanian, Bijal A"
+              },
+              {
+                "name": "Argenbright, Keith E"
+              },
+              {
+                "name": "Gupta, Samir"
+              }
+            ]
+          },
+          "published": "2019-11-01",
+          "units": [
+            {
+              "id": "ucla_postprints"
+            },
+            {
+              "id": "ucsd_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Educational Attainment, Decision-Making Preferences, and Interest in Evidence-Based Diabetes Prevention among Women with a History of Gestational Diabetes Mellitus.",
+          "id": "ark:/13030/qt91w2n57p",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 8,
+            "nodes": [
+              {
+                "name": "Panchal, Hemali"
+              },
+              {
+                "name": "Turk, Norman"
+              },
+              {
+                "name": "Moin, Tannaz"
+              },
+              {
+                "name": "Mangione, Carol M"
+              },
+              {
+                "name": "Vu, Amanda"
+              },
+              {
+                "name": "Amaya, Sarah"
+              },
+              {
+                "name": "Norris, Keith C"
+              },
+              {
+                "name": "Duru, Obidiugwu Kenrik"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucla_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Earmarked Taxes as a Policy Strategy to Increase Funding for Behavioral Health Services.",
+          "id": "ark:/13030/qt91q979dp",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 2,
+            "nodes": [
+              {
+                "name": "Purtle, Jonathan"
+              },
+              {
+                "name": "Stadnick, Nicole A"
+              }
+            ]
+          },
+          "published": "2020-01-01",
+          "units": [
+            {
+              "id": "ucsd_postprints"
+            },
+            {
+              "id": "ucsdpsych_rw"
+            }
+          ]
+        },
+        {
+          "title": "NaV1.1 inhibition can reduce visceral hypersensitivity.",
+          "id": "ark:/13030/qt91p8f6ph",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 16,
+            "nodes": [
+              {
+                "name": "Salvatierra, Juan"
+              },
+              {
+                "name": "Castro, Joel"
+              },
+              {
+                "name": "Erickson, Andelain"
+              },
+              {
+                "name": "Li, Qian"
+              },
+              {
+                "name": "Braz, Joao"
+              },
+              {
+                "name": "Gilchrist, John"
+              },
+              {
+                "name": "Grundy, Luke"
+              },
+              {
+                "name": "Rychkov, Grigori Y"
+              },
+              {
+                "name": "Deiteren, Annemie"
+              },
+              {
+                "name": "Rais, Rana"
+              },
+              {
+                "name": "King, Glenn F"
+              },
+              {
+                "name": "Slusher, Barbara S"
+              },
+              {
+                "name": "Basbaum, Allan"
+              },
+              {
+                "name": "Pasricha, Pankaj J"
+              },
+              {
+                "name": "Brierley, Stuart M"
+              },
+              {
+                "name": "Bosmans, Frank"
+              }
+            ]
+          },
+          "published": "2018-06-07",
+          "units": [
+            {
+              "id": "ucsf_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Unraveling Metabolic and Proteomic Features in Soybean Plants in Response to Copper Hydroxide Nanowires Compared to a Commercial Fertilizer.",
+          "id": "ark:/13030/qt90p3p27c",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 5,
+            "nodes": [
+              {
+                "name": "Majumdar, Sanghamitra"
+              },
+              {
+                "name": "Long, Randall W"
+              },
+              {
+                "name": "Kirkwood, Jay S"
+              },
+              {
+                "name": "Minakova, Anastasiia S"
+              },
+              {
+                "name": "Keller, Arturo A"
+              }
+            ]
+          },
+          "published": "2021-07-09",
+          "units": [
+            {
+              "id": "ucsb_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Point Location and Active Learning: Learning Halfspaces Almost Optimally",
+          "id": "ark:/13030/qt9075997n",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 5,
+            "nodes": [
+              {
+                "name": "Hopkins, Max"
+              },
+              {
+                "name": "Kane, Daniel"
+              },
+              {
+                "name": "Lovett, Shachar"
+              },
+              {
+                "name": "Mahajan, Gaurav"
+              },
+              {
+                "name": "IEEE"
+              }
+            ]
+          },
+          "published": "2020-01-01",
+          "units": [
+            {
+              "id": "ucsd_postprints"
+            },
+            {
+              "id": "ucsd_cse_oapdeposits"
+            }
+          ]
+        },
+        {
+          "title": "Service use by youth with autism within a system-driven implementation of evidence-based practices in children's mental health services.",
+          "id": "ark:/13030/qt8wc4g25j",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 6,
+            "nodes": [
+              {
+                "name": "Stadnick, Nicole A"
+              },
+              {
+                "name": "Lau, Anna S"
+              },
+              {
+                "name": "Dickson, Kelsey S"
+              },
+              {
+                "name": "Pesanti, Keri"
+              },
+              {
+                "name": "Innes-Gomberg, Debbie"
+              },
+              {
+                "name": "Brookman-Frazee, Lauren"
+              }
+            ]
+          },
+          "published": "2020-11-01",
+          "units": [
+            {
+              "id": "ucsd_postprints"
+            },
+            {
+              "id": "ucsdpsych_rw"
+            }
+          ]
+        },
+        {
+          "title": "Behind the Meter Solar+Storage: Market data and trends",
+          "id": "ark:/13030/qt8vk3h91x",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 3,
+            "nodes": [
+              {
+                "name": "Barbose, Galen L"
+              },
+              {
+                "name": "Elmallah, Salma"
+              },
+              {
+                "name": "Gorman, Will"
+              }
+            ]
+          },
+          "published": "2021-07-21",
+          "units": [
+            {
+              "id": "lbnl_rw"
+            }
+          ]
+        },
+        {
+          "title": "Complete Genome Sequence of Escherichia coli NCM3722.",
+          "id": "ark:/13030/qt8t69w9tk",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 2,
+            "nodes": [
+              {
+                "name": "Brown, Steven D"
+              },
+              {
+                "name": "Jun, Suckjoon"
+              }
+            ]
+          },
+          "published": "2015-08-06",
+          "units": [
+            {
+              "id": "ucsd_postprints"
+            },
+            {
+              "id": "ucsd_physics_oapdeposits"
+            }
+          ]
+        },
+        {
+          "title": "Molecular Beam Epitaxy Growth of Monolayer Hexagonal Boron Nitride Films for Metal-Insulator-Metal Devices",
+          "id": "ark:/13030/qt8sk4p0xw",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "He, Yanwei"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Modal Shifts in California from 2012-2017: Investigating Changes in Biking, Walking, and Transit from the 2012 CHTS and 2017 NHTS",
+          "id": "ark:/13030/qt8s35092p",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 2,
+            "nodes": [
+              {
+                "name": "Pike, Susan"
+              },
+              {
+                "name": "Handy, Susan"
+              }
+            ]
+          },
+          "published": "2021-07-01",
+          "units": [
+            {
+              "id": "itsdavis_ncst_reports"
+            },
+            {
+              "id": "itsdavis_reports"
+            }
+          ]
+        },
+        {
+          "title": "Chloroplast genomes elucidate diversity, phylogeny, and taxonomy of Pulsatilla (Ranunculaceae).",
+          "id": "ark:/13030/qt8r95r1v9",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 9,
+            "nodes": [
+              {
+                "name": "Li, Qiu-Jie"
+              },
+              {
+                "name": "Su, Na"
+              },
+              {
+                "name": "Zhang, Ling"
+              },
+              {
+                "name": "Tong, Ru-Chang"
+              },
+              {
+                "name": "Zhang, Xiao-Hui"
+              },
+              {
+                "name": "Wang, Jun-Ru"
+              },
+              {
+                "name": "Chang, Zhao-Yang"
+              },
+              {
+                "name": "Zhao, Liang"
+              },
+              {
+                "name": "Potter, Daniel"
+              }
+            ]
+          },
+          "published": "2020-11-13",
+          "units": [
+            {
+              "id": "ucd_postprints"
+            },
+            {
+              "id": "ipnc_oapdeposits"
+            }
+          ]
+        },
+        {
+          "title": "Flocculation of suspended cohesive particles in homogeneous isotropic turbulence",
+          "id": "ark:/13030/qt8r3544jm",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 6,
+            "nodes": [
+              {
+                "name": "Zhao, K"
+              },
+              {
+                "name": "Pomes, F"
+              },
+              {
+                "name": "Vowinckel, B"
+              },
+              {
+                "name": "Hsu, T-J"
+              },
+              {
+                "name": "Bai, B"
+              },
+              {
+                "name": "Meiburg, E"
+              }
+            ]
+          },
+          "published": "2021-06-30",
+          "units": [
+            {
+              "id": "ucsb_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Genotypic antimicrobial resistance characterization of E. coli from dairy calves at high risk of respiratory disease administered enrofloxacin or tulathromycin.",
+          "id": "ark:/13030/qt8mz1m3kn",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 7,
+            "nodes": [
+              {
+                "name": "Pereira, RV"
+              },
+              {
+                "name": "Foditsch, C"
+              },
+              {
+                "name": "Siler, JD"
+              },
+              {
+                "name": "Dulièpre, SC"
+              },
+              {
+                "name": "Altier, C"
+              },
+              {
+                "name": "Garzon, A"
+              },
+              {
+                "name": "Warnick, LD"
+              }
+            ]
+          },
+          "published": "2020-11-09",
+          "units": [
+            {
+              "id": "ucd_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Dissolution and Aggregation of Metal Oxide Nanoparticles in Root Exudates and Soil Leachate: Implications for Nanoagrochemical Application.",
+          "id": "ark:/13030/qt8ms3w8bc",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 3,
+            "nodes": [
+              {
+                "name": "Cervantes-Avilés, Pabel"
+              },
+              {
+                "name": "Huang, Xiangning"
+              },
+              {
+                "name": "Keller, Arturo A"
+              }
+            ]
+          },
+          "published": "2021-05-24",
+          "units": [
+            {
+              "id": "ucsb_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Defining and Predicting High Cost Utilization in Children's Outpatient Mental Health Services.",
+          "id": "ark:/13030/qt8kk5j1bp",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 4,
+            "nodes": [
+              {
+                "name": "Dickson, Kelsey S"
+              },
+              {
+                "name": "Stadnick, Nicole A"
+              },
+              {
+                "name": "Lind, Teresa"
+              },
+              {
+                "name": "Trask, Emily V"
+              }
+            ]
+          },
+          "published": "2020-09-01",
+          "units": [
+            {
+              "id": "ucsd_postprints"
+            },
+            {
+              "id": "ucsdpsych_rw"
+            }
+          ]
+        },
+        {
+          "title": "Physical Activity, Physical Performance, and Biological Markers of Health among Sedentary Older Latinos.",
+          "id": "ark:/13030/qt8j58t87q",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 7,
+            "nodes": [
+              {
+                "name": "Moreno, Gerardo"
+              },
+              {
+                "name": "Mangione, Carol M"
+              },
+              {
+                "name": "Wang, Pin-Chieh"
+              },
+              {
+                "name": "Trejo, Laura"
+              },
+              {
+                "name": "Butch, Anthony"
+              },
+              {
+                "name": "Tseng, Chi-Hong"
+              },
+              {
+                "name": "Sarkisian, Catherine A"
+              }
+            ]
+          },
+          "published": "2014-01-01",
+          "units": [
+            {
+              "id": "ucla_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Articulated trilobite ontogeny: Suggestions for a methodological standard",
+          "id": "ark:/13030/qt8hf4h9rb",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 14,
+            "nodes": [
+              {
+                "name": "Hughes, NC"
+              },
+              {
+                "name": "Adrain, JM"
+              },
+              {
+                "name": "Holmes, JD"
+              },
+              {
+                "name": "Hong, PS"
+              },
+              {
+                "name": "Hopkins, MJ"
+              },
+              {
+                "name": "Hou, JB"
+              },
+              {
+                "name": "Minelli, A"
+              },
+              {
+                "name": "Park, TYS"
+              },
+              {
+                "name": "Paterson, JR"
+              },
+              {
+                "name": "Peng, J"
+              },
+              {
+                "name": "Webster, M"
+              },
+              {
+                "name": "Zhang, XG"
+              },
+              {
+                "name": "Zhang, XL"
+              },
+              {
+                "name": "Fusco, G"
+              }
+            ]
+          },
+          "published": "2021-03-01",
+          "units": [
+            {
+              "id": "ucr_postprints"
+            }
+          ]
+        },
+        {
+          "title": "The effect of deadlines on cancer screening completion: a randomized controlled trial.",
+          "id": "ark:/13030/qt8g43z7kr",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 7,
+            "nodes": [
+              {
+                "name": "Lieberman, Alicea"
+              },
+              {
+                "name": "Gneezy, Ayelet"
+              },
+              {
+                "name": "Berry, Emily"
+              },
+              {
+                "name": "Miller, Stacie"
+              },
+              {
+                "name": "Koch, Mark"
+              },
+              {
+                "name": "Argenbright, Keith E"
+              },
+              {
+                "name": "Gupta, Samir"
+              }
+            ]
+          },
+          "published": "2021-07-06",
+          "units": [
+            {
+              "id": "ucla_postprints"
+            }
+          ]
+        },
+        {
+          "title": "The Narrative Self in Context: An Examination of Narrative Identity within Interpersonal Contexts and Relational Domains",
+          "id": "ark:/13030/qt8g03g5rh",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Harake, Nicole R."
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Simultaneous Confidence Bands for Monte Carlo Simulations",
+          "id": "ark:/13030/qt8fj1m2rp",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Yang, Jinhui"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Screening for Asymptomatic Carotid Artery Stenosis: US Preventive Services Task Force Recommendation Statement.",
+          "id": "ark:/13030/qt8d56c9jk",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 17,
+            "nodes": [
+              {
+                "name": "US Preventive Services Task Force"
+              },
+              {
+                "name": "Krist, Alex H"
+              },
+              {
+                "name": "Davidson, Karina W"
+              },
+              {
+                "name": "Mangione, Carol M"
+              },
+              {
+                "name": "Barry, Michael J"
+              },
+              {
+                "name": "Cabana, Michael"
+              },
+              {
+                "name": "Caughey, Aaron B"
+              },
+              {
+                "name": "Donahue, Katrina"
+              },
+              {
+                "name": "Doubeni, Chyke A"
+              },
+              {
+                "name": "Epling, John W"
+              },
+              {
+                "name": "Kubik, Martha"
+              },
+              {
+                "name": "Ogedegbe, Gbenga"
+              },
+              {
+                "name": "Pbert, Lori"
+              },
+              {
+                "name": "Silverstein, Michael"
+              },
+              {
+                "name": "Simon, Melissa A"
+              },
+              {
+                "name": "Tseng, Chien-Wen"
+              },
+              {
+                "name": "Wong, John B"
+              }
+            ]
+          },
+          "published": "2021-02-01",
+          "units": [
+            {
+              "id": "ucla_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Screening for Colorectal Cancer: US Preventive Services Task Force Recommendation Statement.",
+          "id": "ark:/13030/qt8cp078bn",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 19,
+            "nodes": [
+              {
+                "name": "US Preventive Services Task Force"
+              },
+              {
+                "name": "Davidson, Karina W"
+              },
+              {
+                "name": "Barry, Michael J"
+              },
+              {
+                "name": "Mangione, Carol M"
+              },
+              {
+                "name": "Cabana, Michael"
+              },
+              {
+                "name": "Caughey, Aaron B"
+              },
+              {
+                "name": "Davis, Esa M"
+              },
+              {
+                "name": "Donahue, Katrina E"
+              },
+              {
+                "name": "Doubeni, Chyke A"
+              },
+              {
+                "name": "Krist, Alex H"
+              },
+              {
+                "name": "Kubik, Martha"
+              },
+              {
+                "name": "Li, Li"
+              },
+              {
+                "name": "Ogedegbe, Gbenga"
+              },
+              {
+                "name": "Owens, Douglas K"
+              },
+              {
+                "name": "Pbert, Lori"
+              },
+              {
+                "name": "Silverstein, Michael"
+              },
+              {
+                "name": "Stevermer, James"
+              },
+              {
+                "name": "Tseng, Chien-Wen"
+              },
+              {
+                "name": "Wong, John B"
+              }
+            ]
+          },
+          "published": "2021-05-01",
+          "units": [
+            {
+              "id": "ucla_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Environmental tradeoffs in municipal wastewater treatment plant upgrade: a life cycle perspective.",
+          "id": "ark:/13030/qt8bt3t4tj",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 7,
+            "nodes": [
+              {
+                "name": "Shao, Shuai"
+              },
+              {
+                "name": "Mu, Hailin"
+              },
+              {
+                "name": "Keller, Arturo A"
+              },
+              {
+                "name": "Yang, Yi"
+              },
+              {
+                "name": "Hou, Haochen"
+              },
+              {
+                "name": "Yang, Fenglin"
+              },
+              {
+                "name": "Zhang, Yun"
+              }
+            ]
+          },
+          "published": "2021-03-04",
+          "units": [
+            {
+              "id": "ucsb_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Double Down ! : The Use Of Two Basses in the Jazz Avant-Garde of the 1960s",
+          "id": "ark:/13030/qt8bp8z2v0",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "babin, thomas"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucsd_etd"
+            }
+          ]
+        },
+        {
+          "title": "Machine Learning-Assisted Resource Management in Edge Computing Systems",
+          "id": "ark:/13030/qt89s2q1f5",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Shao, Zhihui"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "The goal-dependence of level-1 and level-2 visual perspective calculation.",
+          "id": "ark:/13030/qt89m920rk",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 3,
+            "nodes": [
+              {
+                "name": "Todd, Andrew R"
+              },
+              {
+                "name": "Cameron, C Daryl"
+              },
+              {
+                "name": "Simpson, Austin J"
+              }
+            ]
+          },
+          "published": "2020-11-19",
+          "units": [
+            {
+              "id": "ucd_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Active swimmers interacting with stratified fluids during collective vertical migration",
+          "id": "ark:/13030/qt8740x67z",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 4,
+            "nodes": [
+              {
+                "name": "Ouillon, R"
+              },
+              {
+                "name": "Houghton, IA"
+              },
+              {
+                "name": "Dabiri, JO"
+              },
+              {
+                "name": "Meiburg, E"
+              }
+            ]
+          },
+          "published": "2020-11-10",
+          "units": [
+            {
+              "id": "ucsb_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Damage detection in railway bridges using traffic-induced dynamic responses",
+          "id": "ark:/13030/qt8448259z",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 5,
+            "nodes": [
+              {
+                "name": "Meixedo, Andreia"
+              },
+              {
+                "name": "Santos, João"
+              },
+              {
+                "name": "Ribeiro, Diogo"
+              },
+              {
+                "name": "Calçada, Rui"
+              },
+              {
+                "name": "Todd, Michael"
+              }
+            ]
+          },
+          "published": "2021-07-01",
+          "units": [
+            {
+              "id": "ucsd_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Infant Reaching Action Recognition in Unconstrained Environments",
+          "id": "ark:/13030/qt81c6t7bt",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Bhakri, Vikarn"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Developing Messaging Content for a Physical Activity Smartphone App Tailored to Low-Income Patients: User-Centered Design and Crowdsourcing Approach.",
+          "id": "ark:/13030/qt80w6p5tp",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 8,
+            "nodes": [
+              {
+                "name": "Pathak, Laura Elizabeth"
+              },
+              {
+                "name": "Aguilera, Adrian"
+              },
+              {
+                "name": "Williams, Joseph Jay"
+              },
+              {
+                "name": "Lyles, Courtney Rees"
+              },
+              {
+                "name": "Hernandez-Ramos, Rosa"
+              },
+              {
+                "name": "Miramontes, Jose"
+              },
+              {
+                "name": "Cemballi, Anupama Gunshekar"
+              },
+              {
+                "name": "Figueroa, Caroline Astrid"
+              }
+            ]
+          },
+          "published": "2021-05-19",
+          "units": [
+            {
+              "id": "ucb_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Using Solid-State Nuclear Magnetic Resonance to Relate Chemical Structure With the Function of Materials",
+          "id": "ark:/13030/qt80r7z5s6",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Chalek, Kevin R"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Guest Column",
+          "id": "ark:/13030/qt80d93481",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 4,
+            "nodes": [
+              {
+                "name": "Knop, A"
+              },
+              {
+                "name": "Lovett, S"
+              },
+              {
+                "name": "McGuire, S"
+              },
+              {
+                "name": "Yuan, W"
+              }
+            ]
+          },
+          "published": "2021-06-14",
+          "units": [
+            {
+              "id": "ucsd_postprints"
+            },
+            {
+              "id": "ucsd_cse_oapdeposits"
+            }
+          ]
+        },
+        {
+          "title": "Proposed Guidelines on Pre-Arrival Risk Assessments ofForeign Vessels: Using Lessons Learned to Strengthen Implementation of the UN FAO Agreement on Port State Measures",
+          "id": "ark:/13030/qt8091w57h",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Gouache, Chloe"
+              }
+            ]
+          },
+          "published": "2021-06-01",
+          "units": [
+            {
+              "id": "sio_cmbc_capstone"
+            }
+          ]
+        },
+        {
+          "title": "DNA Methylation in Health and Disease",
+          "id": "ark:/13030/qt8072b7rq",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Anteneh, Hiwot"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "On the Common Origin of Dark and Baryonic Matter Abundances and Cosmological Probes of the Dirac Neutrino",
+          "id": "ark:/13030/qt7zp3k9c6",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Shamma, Michael"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Conducting Internet-Based Visits for Onboarding Populations With Limited Digital Literacy to an mHealth Intervention: Development of a Patient-Centered Approach (Preprint)",
+          "id": "ark:/13030/qt7zm932kv",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 7,
+            "nodes": [
+              {
+                "name": "Hernandez-Ramos, Rosa"
+              },
+              {
+                "name": "Aguilera, Adrian"
+              },
+              {
+                "name": "Garcia, Faviola"
+              },
+              {
+                "name": "Miramontes-Gomez, Jose"
+              },
+              {
+                "name": "Pathak, Laura Elizabeth"
+              },
+              {
+                "name": "Figueroa, Caroline Astrid"
+              },
+              {
+                "name": "Lyles, Courtney Rees"
+              }
+            ]
+          },
+          "published": "2020-10-26",
+          "units": [
+            {
+              "id": "ucb_postprints"
+            }
+          ]
+        },
+        {
+          "title": "High thermoelectric figure of merit of porous Si nanowires from 300 to 700 K.",
+          "id": "ark:/13030/qt7z6362qq",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 15,
+            "nodes": [
+              {
+                "name": "Yang, Lin"
+              },
+              {
+                "name": "Huh, Daihong"
+              },
+              {
+                "name": "Ning, Rui"
+              },
+              {
+                "name": "Rapp, Vi"
+              },
+              {
+                "name": "Zeng, Yuqiang"
+              },
+              {
+                "name": "Liu, Yunzhi"
+              },
+              {
+                "name": "Ju, Sucheol"
+              },
+              {
+                "name": "Tao, Yi"
+              },
+              {
+                "name": "Jiang, Yue"
+              },
+              {
+                "name": "Beak, Jihyun"
+              },
+              {
+                "name": "Leem, Juyoung"
+              },
+              {
+                "name": "Kaur, Sumanjeet"
+              },
+              {
+                "name": "Lee, Heon"
+              },
+              {
+                "name": "Zheng, Xiaolin"
+              },
+              {
+                "name": "Prasher, Ravi S"
+              }
+            ]
+          },
+          "published": "2021-06-24",
+          "units": [
+            {
+              "id": "lbnl_rw"
+            }
+          ]
+        },
+        {
+          "title": "Seed germination prediction of Salvia limbata under ecological stresses in protected areas: an artificial intelligence modeling approach.",
+          "id": "ark:/13030/qt7wf7q9c5",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 3,
+            "nodes": [
+              {
+                "name": "Saffariha, Maryam"
+              },
+              {
+                "name": "Jahani, Ali"
+              },
+              {
+                "name": "Potter, Daniel"
+              }
+            ]
+          },
+          "published": "2020-08-29",
+          "units": [
+            {
+              "id": "ucd_postprints"
+            },
+            {
+              "id": "ipnc_oapdeposits"
+            }
+          ]
+        },
+        {
+          "title": "Differences in Clinician Electronic Health Record Use Across Adult and Pediatric Primary Care Specialties.",
+          "id": "ark:/13030/qt7w04z6fb",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 5,
+            "nodes": [
+              {
+                "name": "Rotenstein, Lisa S"
+              },
+              {
+                "name": "Holmgren, A Jay"
+              },
+              {
+                "name": "Downing, N Lance"
+              },
+              {
+                "name": "Longhurst, Christopher A"
+              },
+              {
+                "name": "Bates, David W"
+              }
+            ]
+          },
+          "published": "2021-07-01",
+          "units": [
+            {
+              "id": "ucsf_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Time-Dependent Electrical Contact Resistance at the Nanoscale",
+          "id": "ark:/13030/qt7tb420mv",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 5,
+            "nodes": [
+              {
+                "name": "Vazirisereshk, Mohammad R"
+              },
+              {
+                "name": "Sumaiya, Saima A"
+              },
+              {
+                "name": "Chen, Rimei"
+              },
+              {
+                "name": "Baykara, Mehmet Z"
+              },
+              {
+                "name": "Martini, Ashlie"
+              }
+            ]
+          },
+          "published": "2021-06-01",
+          "units": [
+            {
+              "id": "ucm_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Insights Into the Paleoproterozoic Paleogeography of the Superia Supercraton From Detrital Zircon Geochronology, Isotope Geochemistry, and Chemostratigraphy of Supracrustal Successions on the Southern Margin of the Wyoming Craton",
+          "id": "ark:/13030/qt7t3062qk",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Mammone, Nicholas Michael"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Stability of Current Density Impedance Imaging and Uniqueness for the Inverse Sturm-Liouville Problem",
+          "id": "ark:/13030/qt7sr0r5jw",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Lopez, Robert Julius"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Molecular Recognition: The Role of Conformation, Dynamics, and Allosteric Regulation in the Enzymatic Function of Proteins",
+          "id": "ark:/13030/qt7sj4f358",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Bosken, Yuliana K"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "From Netizen to Citizen: Netizen Empowerment and Political Activism among Chinese Americans",
+          "id": "ark:/13030/qt7sd3j422",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Shao, Yiming"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Pre-Implementation Organizational Environment Associated with Pediatric Integrated Care Readiness in Primary Care",
+          "id": "ark:/13030/qt7rz1j7ft",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 8,
+            "nodes": [
+              {
+                "name": "Stadnick, Nicole A"
+              },
+              {
+                "name": "Penalosa, Martina G"
+              },
+              {
+                "name": "Martinez, Kassandra"
+              },
+              {
+                "name": "Brookman-Frazee, Lauren"
+              },
+              {
+                "name": "Gizzo, Daniel P"
+              },
+              {
+                "name": "Sahms, Timothy"
+              },
+              {
+                "name": "Kuelbs, Cynthia L"
+              },
+              {
+                "name": "Aarons, Gregory A"
+              }
+            ]
+          },
+          "published": "2021-02-05",
+          "units": [
+            {
+              "id": "ucsd_postprints"
+            },
+            {
+              "id": "ucsdpsych_rw"
+            }
+          ]
+        },
+        {
+          "title": "Categorizing the function of positive emotions",
+          "id": "ark:/13030/qt7rh295v5",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 3,
+            "nodes": [
+              {
+                "name": "Revord, Julia"
+              },
+              {
+                "name": "Sweeny, Kate"
+              },
+              {
+                "name": "Lyubomirsky, Sonja"
+              }
+            ]
+          },
+          "published": "2021-06-01",
+          "units": [
+            {
+              "id": "ucr_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Vagal gut-brain signaling mediates amygdaloid plasticity, affect, and pain in a functional dyspepsia model.",
+          "id": "ark:/13030/qt7np6m6s3",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 7,
+            "nodes": [
+              {
+                "name": "Cordner, Zachary A"
+              },
+              {
+                "name": "Li, Qian"
+              },
+              {
+                "name": "Liu, Liansheng"
+              },
+              {
+                "name": "Tamashiro, Kellie L"
+              },
+              {
+                "name": "Bhargava, Aditi"
+              },
+              {
+                "name": "Moran, Timothy H"
+              },
+              {
+                "name": "Pasricha, Pankaj Jay"
+              }
+            ]
+          },
+          "published": "2021-03-22",
+          "units": [
+            {
+              "id": "ucsf_postprints"
+            }
+          ]
+        },
+        {
+          "title": "The first systematic description of Cambrian fossils from Myanmar: Late Furongian trilobites from the southern part of the Shan State and the early Palaeozoic palaeogeographical affinities of Sibumasu",
+          "id": "ark:/13030/qt7nm4g6n0",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 4,
+            "nodes": [
+              {
+                "name": "Wernette, Shelly J"
+              },
+              {
+                "name": "Hughes, Nigel C"
+              },
+              {
+                "name": "Myrow, Paul M"
+              },
+              {
+                "name": "Aung, Aye Ko"
+              }
+            ]
+          },
+          "published": "2021-07-01",
+          "units": [
+            {
+              "id": "ucr_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Implementation strategies for digital mental health interventions in health care settings.",
+          "id": "ark:/13030/qt7nf4d1mg",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 9,
+            "nodes": [
+              {
+                "name": "Graham, Andrea K"
+              },
+              {
+                "name": "Lattie, Emily G"
+              },
+              {
+                "name": "Powell, Byron J"
+              },
+              {
+                "name": "Lyon, Aaron R"
+              },
+              {
+                "name": "Smith, Justin D"
+              },
+              {
+                "name": "Schueller, Stephen M"
+              },
+              {
+                "name": "Stadnick, Nicole A"
+              },
+              {
+                "name": "Brown, C Hendricks"
+              },
+              {
+                "name": "Mohr, David C"
+              }
+            ]
+          },
+          "published": "2020-11-01",
+          "units": [
+            {
+              "id": "uci_postprints"
+            },
+            {
+              "id": "ucsd_postprints"
+            },
+            {
+              "id": "ics_inf_oapdeposits"
+            },
+            {
+              "id": "ucsdpsych_rw"
+            }
+          ]
+        },
+        {
+          "title": "The mysterious grooves of Volcan Barcena: a review of the role of streamwise counter-rotating vortices during erosion by dilute pyroclastic density currents",
+          "id": "ark:/13030/qt7jq7d9dv",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 4,
+            "nodes": [
+              {
+                "name": "Kieffer, Susan W"
+              },
+              {
+                "name": "Meiburg, Eckart"
+              },
+              {
+                "name": "Best, Jim"
+              },
+              {
+                "name": "Austin, Joanna"
+              }
+            ]
+          },
+          "published": "2021-04-01",
+          "units": [
+            {
+              "id": "ucsb_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Screening for Vitamin D Deficiency in Adults: US Preventive Services Task Force Recommendation Statement.",
+          "id": "ark:/13030/qt7g2020r9",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 19,
+            "nodes": [
+              {
+                "name": "US Preventive Services Task Force"
+              },
+              {
+                "name": "Krist, Alex H"
+              },
+              {
+                "name": "Davidson, Karina W"
+              },
+              {
+                "name": "Mangione, Carol M"
+              },
+              {
+                "name": "Cabana, Michael"
+              },
+              {
+                "name": "Caughey, Aaron B"
+              },
+              {
+                "name": "Davis, Esa M"
+              },
+              {
+                "name": "Donahue, Katrina E"
+              },
+              {
+                "name": "Doubeni, Chyke A"
+              },
+              {
+                "name": "Epling, John W"
+              },
+              {
+                "name": "Kubik, Martha"
+              },
+              {
+                "name": "Li, Li"
+              },
+              {
+                "name": "Ogedegbe, Gbenga"
+              },
+              {
+                "name": "Owens, Douglas K"
+              },
+              {
+                "name": "Pbert, Lori"
+              },
+              {
+                "name": "Silverstein, Michael"
+              },
+              {
+                "name": "Stevermer, James"
+              },
+              {
+                "name": "Tseng, Chien-Wen"
+              },
+              {
+                "name": "Wong, John B"
+              }
+            ]
+          },
+          "published": "2021-04-01",
+          "units": [
+            {
+              "id": "ucla_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Chasing Catch:Climate-driven distribution and abundance of Pacific bluefin tuna and Japanese anchovy",
+          "id": "ark:/13030/qt7dv3j3zw",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Loughran, Tyler"
+              }
+            ]
+          },
+          "published": "2021-06-01",
+          "units": [
+            {
+              "id": "sio_cmbc_capstone"
+            }
+          ]
+        },
+        {
+          "title": "Therapist-Observer Concordance in Ratings of EBP Strategy Delivery: Challenges and Targeted Directions in Pursuing Pragmatic Measurement in Children's Mental Health Services.",
+          "id": "ark:/13030/qt7bz398d0",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 10,
+            "nodes": [
+              {
+                "name": "Brookman-Frazee, Lauren"
+              },
+              {
+                "name": "Stadnick, Nicole A"
+              },
+              {
+                "name": "Lind, Teresa"
+              },
+              {
+                "name": "Roesch, Scott"
+              },
+              {
+                "name": "Terrones, Laura"
+              },
+              {
+                "name": "Barnett, Miya L"
+              },
+              {
+                "name": "Regan, Jennifer"
+              },
+              {
+                "name": "Kennedy, Catherine A"
+              },
+              {
+                "name": "F Garland, Ann"
+              },
+              {
+                "name": "Lau, Anna S"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucsd_postprints"
+            },
+            {
+              "id": "ucsdpsych_rw"
+            }
+          ]
+        },
+        {
+          "title": "A population of dust-enshrouded objects orbiting the Galactic black hole.",
+          "id": "ark:/13030/qt7bg440rz",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 12,
+            "nodes": [
+              {
+                "name": "Ciurlo, Anna"
+              },
+              {
+                "name": "Campbell, Randall D"
+              },
+              {
+                "name": "Morris, Mark R"
+              },
+              {
+                "name": "Do, Tuan"
+              },
+              {
+                "name": "Ghez, Andrea M"
+              },
+              {
+                "name": "Hees, Aurélien"
+              },
+              {
+                "name": "Sitarski, Breann N"
+              },
+              {
+                "name": "Kosmo O'Neil, Kelly"
+              },
+              {
+                "name": "Chu, Devin S"
+              },
+              {
+                "name": "Martinez, Gregory D"
+              },
+              {
+                "name": "Naoz, Smadar"
+              },
+              {
+                "name": "Stephan, Alexander P"
+              }
+            ]
+          },
+          "published": "2020-01-15",
+          "units": [
+            {
+              "id": "ucla_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Developing Messaging Content for a Physical Activity Smartphone App Tailored to Low-Income Patients: User-Centered Design and Crowdsourcing Approach (Preprint)",
+          "id": "ark:/13030/qt79d9k22z",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 8,
+            "nodes": [
+              {
+                "name": "Pathak, Laura Elizabeth"
+              },
+              {
+                "name": "Aguilera, Adrian"
+              },
+              {
+                "name": "Williams, Joseph Jay"
+              },
+              {
+                "name": "Lyles, Courtney Rees"
+              },
+              {
+                "name": "Hernandez-Ramos, Rosa"
+              },
+              {
+                "name": "Miramontes, Jose"
+              },
+              {
+                "name": "Cemballi, Anupama Gunshekar"
+              },
+              {
+                "name": "Figueroa, Caroline Astrid"
+              }
+            ]
+          },
+          "published": "2020-06-09",
+          "units": [
+            {
+              "id": "ucb_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Feeding and Foraging in Bumble bees (Genus: Bombus): From the Organism to the Environment",
+          "id": "ark:/13030/qt78h785rm",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Fisher, Kaleigh"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Impact of Parents and Peers on Cognitive and Social Development in Middle Childhood",
+          "id": "ark:/13030/qt7807f67k",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Rajadhyaksha, Manasi"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Rapid proliferation due to better metabolic adaptation results in full virulence of a filament-deficient Candida albicans strain.",
+          "id": "ark:/13030/qt7516r3mq",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 14,
+            "nodes": [
+              {
+                "name": "Dunker, Christine"
+              },
+              {
+                "name": "Polke, Melanie"
+              },
+              {
+                "name": "Schulze-Richter, Bianca"
+              },
+              {
+                "name": "Schubert, Katja"
+              },
+              {
+                "name": "Rudolphi, Sven"
+              },
+              {
+                "name": "Gressler, A Elisabeth"
+              },
+              {
+                "name": "Pawlik, Tony"
+              },
+              {
+                "name": "Prada Salcedo, Juan P"
+              },
+              {
+                "name": "Niemiec, M Joanna"
+              },
+              {
+                "name": "Slesiona-Künzel, Silvia"
+              },
+              {
+                "name": "Swidergall, Marc"
+              },
+              {
+                "name": "Martin, Ronny"
+              },
+              {
+                "name": "Dandekar, Thomas"
+              },
+              {
+                "name": "Jacobsen, Ilse D"
+              }
+            ]
+          },
+          "published": "2021-06-23",
+          "units": [
+            {
+              "id": "ucla_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Screening for Hepatitis B Virus Infection in Adolescents and Adults: US Preventive Services Task Force Recommendation Statement.",
+          "id": "ark:/13030/qt726614sf",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 18,
+            "nodes": [
+              {
+                "name": "US Preventive Services Task Force"
+              },
+              {
+                "name": "Krist, Alex H"
+              },
+              {
+                "name": "Davidson, Karina W"
+              },
+              {
+                "name": "Mangione, Carol M"
+              },
+              {
+                "name": "Barry, Michael J"
+              },
+              {
+                "name": "Cabana, Michael"
+              },
+              {
+                "name": "Caughey, Aaron B"
+              },
+              {
+                "name": "Donahue, Katrina"
+              },
+              {
+                "name": "Doubeni, Chyke A"
+              },
+              {
+                "name": "Epling, John W"
+              },
+              {
+                "name": "Kubik, Martha"
+              },
+              {
+                "name": "Ogedegbe, Gbenga"
+              },
+              {
+                "name": "Owens, Douglas K"
+              },
+              {
+                "name": "Pbert, Lori"
+              },
+              {
+                "name": "Silverstein, Michael"
+              },
+              {
+                "name": "Simon, Melissa A"
+              },
+              {
+                "name": "Tseng, Chien-Wen"
+              },
+              {
+                "name": "Wong, John B"
+              }
+            ]
+          },
+          "published": "2020-12-01",
+          "units": [
+            {
+              "id": "ucla_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Promoting high-functioning mental health treatment teams in the context of low staffing ratios.",
+          "id": "ark:/13030/qt6tf288hc",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 5,
+            "nodes": [
+              {
+                "name": "Miller, Christopher J"
+              },
+              {
+                "name": "Sullivan, Jennifer L"
+              },
+              {
+                "name": "Harvey, Kimberly LL"
+              },
+              {
+                "name": "Williamson, Alicia K"
+              },
+              {
+                "name": "Stadnick, Nicole A"
+              }
+            ]
+          },
+          "published": "2021-05-27",
+          "units": [
+            {
+              "id": "ucsd_postprints"
+            },
+            {
+              "id": "ucsdpsych_rw"
+            }
+          ]
+        },
+        {
+          "title": "Molecular Mechanisms of DNA Opening by XPB Helicase and its Interaction With Nuclease in Nucleotide Excision Repair",
+          "id": "ark:/13030/qt6sg0g1qd",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "He, Feng"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Functional characterization, antimicrobial effects, and potential antibacterial mechanisms of new mastoparan peptides from hornet venom (Vespa ducalis, Vespa mandarinia, and Vespa affinis).",
+          "id": "ark:/13030/qt6q81q6h5",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 6,
+            "nodes": [
+              {
+                "name": "Wen, Xinxin"
+              },
+              {
+                "name": "Gongpan, Pianchou"
+              },
+              {
+                "name": "Meng, Yichuan"
+              },
+              {
+                "name": "Nieh, James C"
+              },
+              {
+                "name": "Yuan, Hongling"
+              },
+              {
+                "name": "Tan, Ken"
+              }
+            ]
+          },
+          "published": "2021-07-05",
+          "units": [
+            {
+              "id": "ucsd_postprints"
+            }
+          ]
+        },
+        {
+          "title": "COVID-19 Treatment Agents: Do They Pose an Environmental Risk?",
+          "id": "ark:/13030/qt6pf8s4jq",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 2,
+            "nodes": [
+              {
+                "name": "Desgens-Martin, Violaine"
+              },
+              {
+                "name": "Keller, Arturo A"
+              }
+            ]
+          },
+          "published": "2021-07-09",
+          "units": [
+            {
+              "id": "ucsb_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Scripps Institution of Oceanography: Probing the Oceans 1936 to 1976",
+          "id": "ark:/13030/qt6nb9j3mt",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Shor, Elizabeth N."
+              }
+            ]
+          },
+          "published": "1978-01-01",
+          "units": [
+            {
+              "id": "sio_lib_rw"
+            }
+          ]
+        },
+        {
+          "title": "A review of unoccupied aerial vehicle use in wetland applications: Emerging opportunities in approach, technology, and data",
+          "id": "ark:/13030/qt6mn9j43s",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 4,
+            "nodes": [
+              {
+                "name": "Dronova, I"
+              },
+              {
+                "name": "Kislik, C"
+              },
+              {
+                "name": "Dinh, Z"
+              },
+              {
+                "name": "Kelly, M"
+              }
+            ]
+          },
+          "published": "2021-06-01",
+          "units": [
+            {
+              "id": "ucb_postprints"
+            }
+          ]
+        },
+        {
+          "title": "The trilobite upper limb branch is a well-developed gill.",
+          "id": "ark:/13030/qt6kk7529d",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 3,
+            "nodes": [
+              {
+                "name": "Hou, Jin-Bo"
+              },
+              {
+                "name": "Hughes, Nigel C"
+              },
+              {
+                "name": "Hopkins, Melanie J"
+              }
+            ]
+          },
+          "published": "2021-03-31",
+          "units": [
+            {
+              "id": "ucr_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Kin of the Leeward Port: Afro-Mexicans in Veracruz in the Making of State Formation, Contested Spaces, and Regional Development, 1770-1830",
+          "id": "ark:/13030/qt6j7434rp",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Malfavon, Alan Alexander"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Population modification strategies for malaria vector control are uniquely resilient to observed levels of gene drive resistance alleles.",
+          "id": "ark:/13030/qt6j56q2mf",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 5,
+            "nodes": [
+              {
+                "name": "Lanzaro, Gregory C"
+              },
+              {
+                "name": "Sánchez C, Hector M"
+              },
+              {
+                "name": "Collier, Travis C"
+              },
+              {
+                "name": "Marshall, John M"
+              },
+              {
+                "name": "James, Anthony A"
+              }
+            ]
+          },
+          "published": "2021-06-20",
+          "units": [
+            {
+              "id": "uci_postprints"
+            }
+          ]
+        },
+        {
+          "title": "How does traffic, or the fear of it, affect housing affordability? Examining the effect of Traffic Impact Analysis on Housing Production and Affordability",
+          "id": "ark:/13030/qt6h47h1ts",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 2,
+            "nodes": [
+              {
+                "name": "Ding, Hao"
+              },
+              {
+                "name": "Taylor, Brian D"
+              }
+            ]
+          },
+          "published": "2021-05-01",
+          "units": [
+            {
+              "id": "ucla_its_ow"
+            }
+          ]
+        },
+        {
+          "title": "On the use of the GP-NARX model for predicting hysteresis effects of bolted joint structures",
+          "id": "ark:/13030/qt6gb195t2",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 4,
+            "nodes": [
+              {
+                "name": "Teloli, Rafael de Oliveira"
+              },
+              {
+                "name": "Villani, Luis GG"
+              },
+              {
+                "name": "da Silva, Samuel"
+              },
+              {
+                "name": "Todd, Michael D"
+              }
+            ]
+          },
+          "published": "2021-10-01",
+          "units": [
+            {
+              "id": "ucsd_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Do Social, Emotional, and Behavioral Problems Impact Vocabulary Intervention?",
+          "id": "ark:/13030/qt6cx065ck",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Youkhanna, Valencia Waleed"
+              }
+            ]
+          },
+          "published": "2020-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Pediatric Primary Care Perspectives on Integrated Mental Health Care for Autism.",
+          "id": "ark:/13030/qt69r2t2ct",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 6,
+            "nodes": [
+              {
+                "name": "Stadnick, Nicole A"
+              },
+              {
+                "name": "Martinez, Kassandra"
+              },
+              {
+                "name": "Aarons, Gregory A"
+              },
+              {
+                "name": "Lee, David A"
+              },
+              {
+                "name": "Van Cleave, Jeanne"
+              },
+              {
+                "name": "Brookman-Frazee, Lauren"
+              }
+            ]
+          },
+          "published": "2020-11-01",
+          "units": [
+            {
+              "id": "ucsd_postprints"
+            },
+            {
+              "id": "ucsdpsych_rw"
+            }
+          ]
+        },
+        {
+          "title": "Choroidal neuroendocrine neoplasia in a dog.",
+          "id": "ark:/13030/qt69h9248f",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 9,
+            "nodes": [
+              {
+                "name": "Lucyshyn, Danica R"
+              },
+              {
+                "name": "Knickelbein, Kelly E"
+              },
+              {
+                "name": "Hollingsworth, Steven R"
+              },
+              {
+                "name": "Reilly, Christopher M"
+              },
+              {
+                "name": "Brust, Kelsey D"
+              },
+              {
+                "name": "Visser, Lance C"
+              },
+              {
+                "name": "Burge, Rhonda"
+              },
+              {
+                "name": "Willcox, Jennifer L"
+              },
+              {
+                "name": "Maggs, David J"
+              }
+            ]
+          },
+          "published": "2021-05-01",
+          "units": [
+            {
+              "id": "ucd_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Screening ecological risk of pesticides and emerging contaminants under data limited conditions - Case study modeling urban and agricultural watersheds with OrganoFate.",
+          "id": "ark:/13030/qt6998z07w",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 2,
+            "nodes": [
+              {
+                "name": "Parker, Nicol"
+              },
+              {
+                "name": "Keller, Arturo A"
+              }
+            ]
+          },
+          "published": "2021-07-04",
+          "units": [
+            {
+              "id": "ucsb_postprints"
+            }
+          ]
+        },
+        {
+          "title": "Race-ing Technology in Dance",
+          "id": "ark:/13030/qt6958f870",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Bowker, Kelly"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Robust Online Learning Enabled by Information Theory",
+          "id": "ark:/13030/qt6829x5h3",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Bahrami, Sajjad"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Improving the reliability of conductive atomic force microscopy-based electrical contact resistance measurements",
+          "id": "ark:/13030/qt66s696kq",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 3,
+            "nodes": [
+              {
+                "name": "Sumaiya, Saima A"
+              },
+              {
+                "name": "Martini, Ashlie"
+              },
+              {
+                "name": "Baykara, Mehmet Z"
+              }
+            ]
+          },
+          "published": "2020-11-26",
+          "units": [
+            {
+              "id": "ucm_postprints"
+            }
+          ]
+        },
+        {
+          "title": "The Use of Motivational Strategies to Enhance Academic Outcomes of Cover, Copy, and Compare Mathematics Intervention",
+          "id": "ark:/13030/qt667361hm",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 1,
+            "nodes": [
+              {
+                "name": "Kasser, Tali"
+              }
+            ]
+          },
+          "published": "2021-01-01",
+          "units": [
+            {
+              "id": "ucr_etd"
+            }
+          ]
+        },
+        {
+          "title": "Marketing Fortified Rice: Effects of Aspirational Messaging and Credibility of Health Claims",
+          "id": "ark:/13030/qt64p3g29r",
+          "isbn": null,
+          "bookTitle": null,
+          "authors": {
+            "total": 3,
+            "nodes": [
+              {
+                "name": "Chowdhury, Reajul"
+              },
+              {
+                "name": "Crost, Benjamin"
+              },
+              {
+                "name": "Hoffmann, Vivian"
+              }
+            ]
+          },
+          "published": "2021-07-21",
+          "units": [
+            {
+              "id": "cega_wps"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

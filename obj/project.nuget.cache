@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "DbB7kdEa6F2IdCnSue1B0n75GP8civ9uhloUKXiykDZYaMA8UvXahXCvZFPXEp+fwtdFoqpFYwOp0wQMaNeMBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ru619\\source\\repos\\eScholarshipAPI\\eScholarshipAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ru619\\.nuget\\packages\\graphql.client\\3.2.0\\graphql.client.3.2.0.nupkg.sha512",
+    "C:\\Users\\ru619\\.nuget\\packages\\graphql.client.abstractions\\3.2.0\\graphql.client.abstractions.3.2.0.nupkg.sha512",
+    "C:\\Users\\ru619\\.nuget\\packages\\graphql.client.abstractions.websocket\\3.2.0\\graphql.client.abstractions.websocket.3.2.0.nupkg.sha512",
+    "C:\\Users\\ru619\\.nuget\\packages\\graphql.client.serializer.newtonsoft\\3.2.0\\graphql.client.serializer.newtonsoft.3.2.0.nupkg.sha512",
+    "C:\\Users\\ru619\\.nuget\\packages\\graphql.primitives\\3.2.0\\graphql.primitives.3.2.0.nupkg.sha512",
+    "C:\\Users\\ru619\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ru619\\.nuget\\packages\\system.reactive\\4.3.2\\system.reactive.4.3.2.nupkg.sha512",
+    "C:\\Users\\ru619\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

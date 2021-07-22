@@ -1,0 +1,46 @@
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\eScholarshipAPI Client.exe
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\eScholarshipAPI Client.AssemblyInfoInputs.cache
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\eScholarshipAPI Client.AssemblyInfo.cs
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\eScholarshipAPI Client.RazorAssemblyInfo.cache
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\eScholarshipAPI Client.RazorAssemblyInfo.cs
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\eScholarshipAPI Client.TagHelpers.input.cache
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\eScholarshipAPI Client.TagHelpers.output.cache
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\eScholarshipAPI Client.RazorCoreGenerate.cache
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\eScholarshipAPI Client.RazorTargetAssemblyInfo.cache
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\eScholarshipAPI Client.RazorTargetAssemblyInfo.cs
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\staticwebassets\eScholarshipAPI Client.StaticWebAssets.Manifest.cache
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\staticwebassets\eScholarshipAPI Client.StaticWebAssets.xml
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\GraphQL.Client.dll
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\GraphQL.Client.Abstractions.dll
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\GraphQL.Client.Abstractions.Websocket.dll
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\GraphQL.Primitives.dll
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\eScholarshipAPI Client.csproj.CopyComplete
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\Models\Data.json
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\Models\Data_old.json
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\eScholarshipAPI Client.deps.json
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\eScholarshipAPI Client.runtimeconfig.json
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\eScholarshipAPI Client.runtimeconfig.dev.json
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\eScholarshipAPI Client.dll
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\eScholarshipAPI Client.pdb
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\eScholarshipAPI Client.Views.dll
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\eScholarshipAPI Client.Views.pdb
+C:\Users\ru619\source\repos\eScholarshipAPI Client\bin\Debug\netcoreapp3.1\GraphQL.Client.Serializer.Newtonsoft.dll
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\eScholarshipAPI Client.csproj.CoreCompileInputs.cache
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\eScholarshipAPI Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\eScholarshipAPI Client.Views.pdb
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\eScholarshipAPI Client.dll
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\eScholarshipAPI Client.pdb
+C:\Users\ru619\source\repos\eScholarshipAPI Client\obj\Debug\netcoreapp3.1\eScholarshipAPI Client.genruntimeconfig.cache
