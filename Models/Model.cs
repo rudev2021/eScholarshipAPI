@@ -61,10 +61,10 @@ namespace eScholarshipAPI_Client.Models
         public List<Item> Items { get; set; }
     }
 
-    public class ResponseOwnerType
-    {
-        public Item Item { get; set; }
-    }
+    //public class ResponseItemType
+    //{
+    //    public Item Item { get; set; }
+    //}
 
 
 }
