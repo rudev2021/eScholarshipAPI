@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 
 namespace eScholarshipAPI_Client.Models
 {
-
-    public class Rootobject
+    [Serializable]
+    public class ItemRootobject
     {
         public Data data { get; set; }
     }

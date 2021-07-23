@@ -19,7 +19,6 @@ C:\Users\ru619\source\repos\eScholarshipAPI\bin\Debug\netcoreapp3.1\GraphQL.Prim
 C:\Users\ru619\source\repos\eScholarshipAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\ru619\source\repos\eScholarshipAPI\bin\Debug\netcoreapp3.1\System.Reactive.dll
 C:\Users\ru619\source\repos\eScholarshipAPI\bin\Debug\netcoreapp3.1\System.Reactive.xml
-C:\Users\ru619\source\repos\eScholarshipAPI\obj\Debug\netcoreapp3.1\eScholarshipAPI.csprojAssemblyReference.cache
 C:\Users\ru619\source\repos\eScholarshipAPI\obj\Debug\netcoreapp3.1\eScholarshipAPI.AssemblyInfoInputs.cache
 C:\Users\ru619\source\repos\eScholarshipAPI\obj\Debug\netcoreapp3.1\eScholarshipAPI.AssemblyInfo.cs
 C:\Users\ru619\source\repos\eScholarshipAPI\obj\Debug\netcoreapp3.1\eScholarshipAPI.csproj.CoreCompileInputs.cache
@@ -45,3 +44,5 @@ C:\Users\ru619\source\repos\eScholarshipAPI\obj\Debug\netcoreapp3.1\staticwebass
 C:\Users\ru619\source\repos\eScholarshipAPI\obj\Debug\netcoreapp3.1\eScholarshipAPI.dll
 C:\Users\ru619\source\repos\eScholarshipAPI\obj\Debug\netcoreapp3.1\eScholarshipAPI.pdb
 C:\Users\ru619\source\repos\eScholarshipAPI\obj\Debug\netcoreapp3.1\eScholarshipAPI.genruntimeconfig.cache
+C:\Users\ru619\source\repos\eScholarshipAPI\bin\Debug\netcoreapp3.1\Models\DataAPI.json
+C:\Users\ru619\source\repos\eScholarshipAPI\obj\Debug\netcoreapp3.1\eScholarshipAPI.csprojAssemblyReference.cache
